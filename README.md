@@ -1,6 +1,11 @@
 # fw-ec-gui
 GUI for the Framework's Embedded Controller
 
+Dependencies:
+* pysimplegui
+* tkinter
+
+
 ![](./screenshot.png)
 
 To use:
