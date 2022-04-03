@@ -7,7 +7,7 @@ class Backend():
     def set(self, path, mode):
         self.path = path
         if mode:
-            self.interface = "fmw"
+            self.interface = "fwk"
         else:
             self.interface = None
 
